@@ -49,4 +49,4 @@ Add screenshots of:
 - Two-Factor Authentication (2FA)
 - Role-Based Access Control
 ## Author
-Developed as part of the CodSoft Internship Program.
+Developed as part of the prodigy InfoTech Internship Program.
